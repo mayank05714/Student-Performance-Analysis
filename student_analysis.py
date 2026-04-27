@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 print("=== Student Performance Analysis ===")
-print("By: [Apna Naam Yahan Likho]")
+print("By: [Mayank Singh]")
 print()
 
 # ----------------------------------------
